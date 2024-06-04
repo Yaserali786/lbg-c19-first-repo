@@ -1,10 +1,11 @@
 # LBG-REPO-1
 This is an example git repository 
 ## Contents
-* [installation] (#installation)*
-* [Usage](#usgage)
+* [installation] (#installation)
+* [Usage](#usage)
 
 ## Installation
-If this were actual 
+Install section
 
-## Usgage
+## Usage
+section for Usage
