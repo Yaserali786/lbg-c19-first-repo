@@ -6,6 +6,7 @@ This is an example git repository
 
 ## Installation
 Install section
+Additional details
 
 ## Usage
 section for Usage
